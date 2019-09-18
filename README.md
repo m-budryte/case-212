@@ -153,7 +153,6 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
-| Евгений Хайдуков                   | IT Manager, Краснодар
 | Мишакин Михаил                     | Senior Software Developer, Direct Line  |
 | Аблеев Сергей                      | Fullstack developer, г. Екатеринбург    |
 | Евгений Прилепин                   | Software Engineer, Санкт-Петербург      |
@@ -172,3 +171,4 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Маша Будрите                       | Consultant Developer, ThoughtWorks      |
